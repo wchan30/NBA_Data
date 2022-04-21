@@ -5,3 +5,6 @@ requirements.txt are the tools you need to install in order to run the program;
 util.py are the functions that are imported into the main program;
 main.py is the main program;
 shotchart.py is a program that creates the shotchart
+
+
+to run: python3 main.py -n name -y year
