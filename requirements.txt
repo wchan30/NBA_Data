@@ -1,0 +1,6 @@
+pandas
+matplotlib
+argparse
+requests
+nba_api
+seaborn
